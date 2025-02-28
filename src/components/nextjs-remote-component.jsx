@@ -15,7 +15,7 @@ const NextjsRemoteComponent = () => {
         fontSize: '24px',
       }}
     >
-      Hello from Remote Nextjs component
+      Remote Nextjs component
     </nav>
   );
 };
